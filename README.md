@@ -6,7 +6,7 @@
 ### aboutMe.js
 
 ```typescript
-const andre = {
+const femi = {
     fullName: "Oyewo Oluwafemi Julius",
     pronouns: "he" | "him",
     code: [Typescript, Javascript, C#, Python],
